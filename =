@@ -1,0 +1,11 @@
+Revert "hello"
+
+This reverts commit 868eb5fdb561cbe94d5a8538305d0ef69d5db449.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   s1.html
+#
